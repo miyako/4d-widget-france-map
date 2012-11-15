@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:region="http://www.4d.com/svg/map/france/region"   
+   xmlns:department="http://www.4d.com/svg/map/france/department"      
+   width="660"
+   height="600"
+   id="department"
+   version="1.0">
+
+	<defs
+	 id="defs">
+		<image id="department01-icon" xlink:href="departments/01.svg" height="95%" width="95%" />
+		<image id="department02-icon" xlink:href="departments/02.svg" height="95%" width="95%" />
+		<image id="department03-icon" xlink:href="departments/03.svg" height="95%" width="95%" />
+		<image id="department04-icon" xlink:href="departments/04.svg" height="95%" width="95%" />
+		<image id="department05-icon" xlink:href="departments/05.svg" height="95%" width="95%" />
+		<image id="department06-icon" xlink:href="departments/06.svg" height="95%" width="95%" />
+		<image id="department07-icon" xlink:href="departments/07.svg" height="95%" width="95%" />
+		<image id="department08-icon" xlink:href="departments/08.svg" height="95%" width="95%" />
+		<image id="department09-icon" xlink:href="departments/09.svg" height="95%" width="95%" />
+		<image id="department10-icon" xlink:href="departments/10.svg" height="95%" width="95%" />		
+		<image id="department11-icon" xlink:href="departments/11.svg" height="95%" width="95%" />
+		<image id="department12-icon" xlink:href="departments/12.svg" height="95%" width="95%" />
+		<image id="department13-icon" xlink:href="departments/13.svg" height="95%" width="95%" />
+		<image id="department14-icon" xlink:href="departments/14.svg" height="95%" width="95%" />
+		<image id="department15-icon" xlink:href="departments/15.svg" height="95%" width="95%" />
+		<image id="department16-icon" xlink:href="departments/16.svg" height="95%" width="95%" />
+		<image id="department17-icon" xlink:href="departments/17.svg" height="95%" width="95%" />
+		<image id="department18-icon" xlink:href="departments/18.svg" height="95%" width="95%" />
+		<image id="department19-icon" xlink:href="departments/19.svg" height="95%" width="95%" />
+		<image id="department2a-icon" xlink:href="departments/20.svg" height="95%" width="95%" />
+		<image id="department2b-icon" xlink:href="departments/20.svg" height="95%" width="95%" />
+		<image id="department21-icon" xlink:href="departments/21.svg" height="95%" width="95%" />
+		<image id="department22-icon" xlink:href="departments/22.svg" height="95%" width="95%" />
+		<image id="department23-icon" xlink:href="departments/23.svg" height="95%" width="95%" />
+		<image id="department24-icon" xlink:href="departments/24.svg" height="95%" width="95%" />
+		<image id="department25-icon" xlink:href="departments/25.svg" height="95%" width="95%" />
+		<image id="department26-icon" xlink:href="departments/26.svg" height="95%" width="95%" />
+		<image id="department27-icon" xlink:href="departments/27.svg" height="95%" width="95%" />
+		<image id="department28-icon" xlink:href="departments/28.svg" height="95%" width="95%" />
+		<image id="department29-icon" xlink:href="departments/29.svg" height="95%" width="95%" />
+		<image id="department30-icon" xlink:href="departments/30.svg" height="95%" width="95%" />		
+		<image id="department31-icon" xlink:href="departments/31.svg" height="95%" width="95%" />
+		<image id="department32-icon" xlink:href="departments/32.svg" height="95%" width="95%" />
+		<image id="department33-icon" xlink:href="departments/33.svg" height="95%" width="95%" />
+		<image id="department34-icon" xlink:href="departments/34.svg" height="95%" width="95%" />
+		<image id="department35-icon" xlink:href="departments/35.svg" height="95%" width="95%" />
+		<image id="department36-icon" xlink:href="departments/36.svg" height="95%" width="95%" />
+		<image id="department37-icon" xlink:href="departments/37.svg" height="95%" width="95%" />
+		<image id="department38-icon" xlink:href="departments/38.svg" height="95%" width="95%" />
+		<image id="department39-icon" xlink:href="departments/39.svg" height="95%" width="95%" />
+		<image id="department40-icon" xlink:href="departments/40.svg" height="95%" width="95%" />			
+		<image id="department41-icon" xlink:href="departments/41.svg" height="95%" width="95%" />
+		<image id="department42-icon" xlink:href="departments/42.svg" height="95%" width="95%" />
+		<image id="department43-icon" xlink:href="departments/43.svg" height="95%" width="95%" />
+		<image id="department44-icon" xlink:href="departments/44.svg" height="95%" width="95%" />
+		<image id="department45-icon" xlink:href="departments/45.svg" height="95%" width="95%" />
+		<image id="department46-icon" xlink:href="departments/46.svg" height="95%" width="95%" />
+		<image id="department47-icon" xlink:href="departments/47.svg" height="95%" width="95%" />
+		<image id="department48-icon" xlink:href="departments/48.svg" height="95%" width="95%" />
+		<image id="department49-icon" xlink:href="departments/49.svg" height="95%" width="95%" />
+		<image id="department50-icon" xlink:href="departments/50.svg" height="95%" width="95%" />			
+		<image id="department51-icon" xlink:href="departments/51.svg" height="95%" width="95%" />
+		<image id="department52-icon" xlink:href="departments/52.svg" height="95%" width="95%" />
+		<image id="department53-icon" xlink:href="departments/53.svg" height="95%" width="95%" />
+		<image id="department54-icon" xlink:href="departments/54.svg" height="95%" width="95%" />
+		<image id="department55-icon" xlink:href="departments/55.svg" height="95%" width="95%" />
+		<image id="department56-icon" xlink:href="departments/56.svg" height="95%" width="95%" />
+		<image id="department57-icon" xlink:href="departments/57.svg" height="95%" width="95%" />
+		<image id="department58-icon" xlink:href="departments/58.svg" height="95%" width="95%" />
+		<image id="department59-icon" xlink:href="departments/59.svg" height="95%" width="95%" />
+		<image id="department60-icon" xlink:href="departments/60.svg" height="95%" width="95%" />			
+		<image id="department61-icon" xlink:href="departments/61.svg" height="95%" width="95%" />
+		<image id="department62-icon" xlink:href="departments/62.svg" height="95%" width="95%" />
+		<image id="department63-icon" xlink:href="departments/63.svg" height="95%" width="95%" />
+		<image id="department64-icon" xlink:href="departments/64.svg" height="95%" width="95%" />
+		<image id="department65-icon" xlink:href="departments/65.svg" height="95%" width="95%" />
+		<image id="department66-icon" xlink:href="departments/66.svg" height="95%" width="95%" />
+		<image id="department67-icon" xlink:href="departments/67.svg" height="95%" width="95%" />
+		<image id="department68-icon" xlink:href="departments/68.svg" height="95%" width="95%" />
+		<image id="department69-icon" xlink:href="departments/69.svg" height="95%" width="95%" />
+		<image id="department70-icon" xlink:href="departments/70.svg" height="95%" width="95%" />			
+		<image id="department71-icon" xlink:href="departments/71.svg" height="95%" width="95%" />
+		<image id="department72-icon" xlink:href="departments/72.svg" height="95%" width="95%" />
+		<image id="department73-icon" xlink:href="departments/73.svg" height="95%" width="95%" />
+		<image id="department74-icon" xlink:href="departments/74.svg" height="95%" width="95%" />
+		<image id="department75-icon" xlink:href="departments/75.svg" height="95%" width="95%" />
+		<image id="department76-icon" xlink:href="departments/76.svg" height="95%" width="95%" />
+		<image id="department77-icon" xlink:href="departments/77.svg" height="95%" width="95%" />
+		<image id="department78-icon" xlink:href="departments/78.svg" height="95%" width="95%" />
+		<image id="department79-icon" xlink:href="departments/79.svg" height="95%" width="95%" />
+		<image id="department80-icon" xlink:href="departments/80.svg" height="95%" width="95%" />	
+		<image id="department81-icon" xlink:href="departments/81.svg" height="95%" width="95%" />
+		<image id="department82-icon" xlink:href="departments/82.svg" height="95%" width="95%" />
+		<image id="department83-icon" xlink:href="departments/83.svg" height="95%" width="95%" />
+		<image id="department84-icon" xlink:href="departments/84.svg" height="95%" width="95%" />
+		<image id="department85-icon" xlink:href="departments/85.svg" height="95%" width="95%" />
+		<image id="department86-icon" xlink:href="departments/86.svg" height="95%" width="95%" />
+		<image id="department87-icon" xlink:href="departments/87.svg" height="95%" width="95%" />
+		<image id="department88-icon" xlink:href="departments/88.svg" height="95%" width="95%" />
+		<image id="department89-icon" xlink:href="departments/89.svg" height="95%" width="95%" />
+		<image id="department90-icon" xlink:href="departments/90.svg" height="95%" width="95%" />	
+		<image id="department91-icon" xlink:href="departments/91.svg" height="95%" width="95%" />
+		<image id="department92-icon" xlink:href="departments/92.svg" height="95%" width="95%" />
+		<image id="department93-icon" xlink:href="departments/93.svg" height="95%" width="95%" />
+		<image id="department94-icon" xlink:href="departments/94.svg" height="95%" width="95%" />
+		<image id="department95-icon" xlink:href="departments/95.svg" height="95%" width="95%" />
+	 
+		<filter id="filter" x="0" y="0" width="200%" height="200%">
+			<feColorMatrix 
+				in="SourceAlpha"
+				result="matrixOut" 
+				type="matrix"
+				values="0 0 0 0 0
+						0 0 0 0 .22 
+						0 0 0 0 .9 
+						0 0 0 2.5 0" />
+			<feGaussianBlur  in="matrixOut" result="blurOut" stdDeviation="1" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+    </filter>	
+						 			 
+	</defs>
+	 
+  <metadata
+     id="metadata">
+  </metadata>
+
+<g id="departments">
+ 
+<g id="Corse" department:list="2a,2b">	 
+    <g
+       id="department2a"
+       department:name="Corse-du-Sud"
+	   region:id="Corse" />
+    <g
+       id="department2b"
+       department:name="Haute-Corse"
+	   region:id="Corse" />
+    <g
+       id="Corse-du-Sud"
+	   region:id="Corse" />
+    <g
+       id="Haute-Corse"
+	   region:id="Corse" />	 
+    <g
+       region:name="Corse" />	   
+</g>
+	   
+<g id="Provence-Alpes-Côte d'Azur" department:list="13,84,83,04,06,05">	   
+    <g
+       id="department13"
+       department:name="Bouches-du-Rhône"
+	   region:id="Provence-Alpes-Côte d'Azur" />
+    <g
+       id="department84"
+       department:name="Vaucluse"
+	   region:id="Provence-Alpes-Côte d'Azur" />
+    <g
+       id="department83"
+       department:name="Var"
+	   region:id="Provence-Alpes-Côte d'Azur" />
+    <g
+       id="department04"
+       department:name="Alpes-de-Haute-Provence"
+	   region:id="Provence-Alpes-Côte d'Azur" />
+    <g
+       id="department06"
+       department:name="Alpes-Maritimes"
+	   region:id="Provence-Alpes-Côte d'Azur" />
+    <g
+       id="department05"
+       department:name="Hautes-Alpes"
+	   region:id="Provence-Alpes-Côte d'Azur" />
+    <g
+       id="Bouches-du-Rhône"
+	   department:id="13"
+	   region:id="Provence-Alpes-Côte d'Azur" />
+    <g
+       id="Vaucluse"
+	   department:id="84"
+	   region:id="Provence-Alpes-Côte d'Azur" />
+    <g
+       id="Var"
+	   department:id="83"
+	   region:id="Provence-Alpes-Côte d'Azur" />
+    <g
+       id="Alpes-de-Haute-Provence"
+	   department:id="04"
+	   region:id="Provence-Alpes-Côte d'Azur" />
+    <g
+       id="Alpes-Maritimes"
+	   department:id="06"
+	   region:id="Provence-Alpes-Côte d'Azur" />
+    <g
+       id="Hautes-Alpes"
+	   department:id="05"
+	   region:id="Provence-Alpes-Côte d'Azur" />
+    <g
+       region:name="Provence-Alpes-Côte d'Azur" /> 	   
+</g>	   
+	   
+<g id="Languedoc-Roussillon" department:list="48,30,11,34,66">	   
+    <g
+       id="department48"
+       department:name="Lozère"
+	   region:id="Languedoc-Roussillon" />
+    <g
+       id="department30"
+       department:name="Gard"
+	   region:id="Languedoc-Roussillon" />
+    <g
+       id="department11"
+       department:name="Aude"
+	   region:id="Languedoc-Roussillon" />
+    <g
+       id="department34"
+       department:name="Hérault"
+	   region:id="Languedoc-Roussillon" />
+    <g
+        id="department66"
+       department:name="Pyrénées-Orientales"
+	   region:id="Languedoc-Roussillon" />
+    <g
+       id="Lozère"
+	   department:id="48"
+	   region:id="Languedoc-Roussillon" />
+    <g
+       id="Gard"
+	   department:id="30"
+	   region:id="Languedoc-Roussillon" />
+    <g
+       id="Aude"
+	   department:id="11"
+	   region:id="Languedoc-Roussillon" />
+    <g
+       id="Hérault"
+	   department:id="34"
+	   region:id="Languedoc-Roussillon" />
+    <g
+        id="Pyrénées-Orientales"
+		department:id="66"
+	   region:id="Languedoc-Roussillon" />
+    <g
+       region:name="Languedoc-Roussillon" />
+</g>	   	   
+	   
+<g id="Auvergne" department:list="15,43,63,03">	   
+    <g
+       id="department15"
+       department:name="Cantal"
+	   region:id="Auvergne" />
+    <g
+       id="department43"
+       department:name="Haute-Loire"
+	   region:id="Auvergne" />
+    <g
+       id="department63"
+       department:name="Puy-de-Dôme"
+	   region:id="Auvergne" />
+    <g
+       id="department03"
+       department:name="Allier"
+	   region:id="Auvergne" />	  
+    <g
+       id="Cantal"
+	   department:id="15"
+	   region:id="Auvergne" />
+    <g
+       id="Haute-Loire"
+	   department:id="43"
+	   region:id="Auvergne" />
+    <g
+       id="Puy-de-Dôme"
+	   department:id="63"
+	   region:id="Auvergne" />
+    <g
+       id="Allier"
+	   department:id="03"
+	   region:id="Auvergne" />	 		   
+    <g
+       region:name="Auvergne" />	   
+</g>
+
+<g id="Aquitaine" department:list="64,40,33,24,47">
+    <g
+       id="department64"
+       department:name="Pyrénées-Atlantiques"
+	   region:id="Aquitaine" />
+    <g
+       id="department40"
+       department:name="Landes"
+	   region:id="Aquitaine" />
+    <g
+       id="department33"
+       department:name="Gironde"
+	   region:id="Aquitaine" />
+    <g
+       id="department24"
+       department:name="Dordogne"
+	   region:id="Aquitaine" />
+    <g
+       id="department47"
+       department:name="Lot-et-Garonne"
+	   region:id="Aquitaine" />
+    <g
+       id="Pyrénées-Atlantiques"
+	   department:id="64"
+	   region:id="Aquitaine" />
+    <g
+       id="Landes"
+	   department:id="40"
+	   region:id="Aquitaine" />
+    <g
+       id="Gironde"
+	   department:id="33"
+	   region:id="Aquitaine" />
+    <g
+       id="Dordogne"
+	   department:id="24"
+	   region:id="Aquitaine" />
+    <g
+       id="Lot-et-Garonne"
+	   department:id="47"
+	   region:id="Aquitaine" />	   
+    <g
+       region:name="Aquitaine" />
+</g>	   	   
+   	   
+<g id="Midi-Pyrénées" department:list="46,09,32,31,82,12,81,65">	   
+    <g
+       id="department46"
+       department:name="Lot"
+	   region:id="Midi-Pyrénées" />
+    <g
+       id="department09"
+       department:name="Ariège"
+	   region:id="Midi-Pyrénées" />
+    <g
+       id="department32"
+       department:name="Gers"
+	   region:id="Midi-Pyrénées" />
+    <g
+       id="department31"
+       department:name="Haute-Garonne"
+	   region:id="Midi-Pyrénées" />
+    <g
+       id="department82" 
+       department:name="Tarn-et-Garonne"
+	   region:id="Midi-Pyrénées" />
+    <g
+       id="department12"
+       department:name="Aveyron"
+	   region:id="Midi-Pyrénées" />
+    <g
+       id="department81"
+       department:name="Tarn"
+	   region:id="Midi-Pyrénées" />
+    <g
+       id="department65"
+       department:name="Hautes-Pyrénées"
+	   region:id="Midi-Pyrénées" />	   
+    <g
+       id="Lot"
+	   department:id="46"
+	   region:id="Midi-Pyrénées" />
+    <g
+       id="Ariège"
+	   department:id="09"
+	   region:id="Midi-Pyrénées" />
+    <g
+       id="Gers"
+	   department:id="32"
+	   region:id="Midi-Pyrénées" />
+    <g
+       id="Haute-Garonne"
+	   department:id="31"
+	   region:id="Midi-Pyrénées" />
+    <g
+       id="Tarn-et-Garonne"
+	   department:id="82"
+	   region:id="Midi-Pyrénées" />
+    <g
+       id="Aveyron"
+	   department:id="12"
+	   region:id="Midi-Pyrénées" />
+    <g
+       id="Tarn"
+	   department:id="81"
+	   region:id="Midi-Pyrénées" />
+    <g
+       id="Hautes-Pyrénées"
+	   department:id="65"
+	   region:id="Midi-Pyrénées" />	  	   
+    <g
+       region:name="Midi-Pyrénées" />
+</g>	   
+	   
+<g id="Rhône-Alpes" department:list="01,38,74,42,69,73,07,26">	   
+    <g
+       id="department01"
+       department:name="Ain"
+	   region:id="Rhône-Alpes" />
+    <g
+       id="department38"
+       department:name="Isère"
+	   region:id="Rhône-Alpes" />
+    <g
+       id="department74"
+       department:name="Haute-Savoie"
+	   region:id="Rhône-Alpes" />
+    <g
+       id="department42"
+       department:name="Loire"
+	   region:id="Rhône-Alpes" />
+    <g
+       id="department69"
+       department:name="Rhône"
+	   region:id="Rhône-Alpes" />
+    <g
+       id="department73"
+       department:name="Savoie"
+	   region:id="Rhône-Alpes" />
+    <g
+       id="department07"
+       department:name="Ardèche"
+	   region:id="Rhône-Alpes" />
+    <g
+       id="department26"
+       department:name="Drôme"
+	   region:id="Rhône-Alpes" />
+    <g
+       id="Ain"
+	   department:id="01"
+	   region:id="Rhône-Alpes" />
+    <g
+       id="Isère"
+	   department:id="38"
+	   region:id="Rhône-Alpes" />
+    <g
+       id="Haute-Savoie"
+	   department:id="74"
+	   region:id="Rhône-Alpes" />
+    <g
+       id="Loire"
+	   department:id="42"
+	   region:id="Rhône-Alpes" />
+    <g
+       id="Rhône"
+	   department:id="69"
+	   region:id="Rhône-Alpes" />
+    <g
+       id="Savoie"
+	   department:id="73"
+	   region:id="Rhône-Alpes" />
+    <g
+       id="Ardèche"
+	   department:id="07"
+	   region:id="Rhône-Alpes" />
+    <g
+       id="Drôme"
+	   department:id="26"
+	   region:id="Rhône-Alpes" />	   
+    <g
+       region:name="Rhône-Alpes" />  
+</g>	   
+
+<g id="Limousin" department:list="19,23,87">
+    <g
+       id="department19"
+       department:name="Corrèze"
+	   region:id="Limousin" />	   
+    <g
+       id="department23"
+       department:name="Creuse"
+	   region:id="Limousin" />	
+    <g
+       id="department87"
+       department:name="Haute-Vienne"
+	   region:id="Limousin" />
+    <g
+       id="Corrèze"
+	   department:id="19"
+	   region:id="Limousin" />	   
+    <g
+       id="Creuse"
+	   department:id="23"
+	   region:id="Limousin" />	
+    <g
+       id="Haute-Vienne"
+	   department:id="87"
+	   region:id="Limousin" />	   	
+    <g
+       region:name="Limousin" />	   
+</g>	   
+	   
+<g id="Poitou-Charentes" department:list="86,16,79,17">	   
+    <g
+       id="department86"
+       department:name="Vienne"
+	   region:id="Poitou-Charentes" />	
+    <g
+       id="department16"
+       department:name="Charente"
+	   region:id="Poitou-Charentes" />		   
+    <g
+       id="department79"
+       department:name="Deux-Sèvres"
+	   region:id="Poitou-Charentes" />
+    <g
+       id="department17"
+       department:name="Charente-Maritime"
+	   region:id="Poitou-Charentes" />	 
+    <g
+       id="Vienne"
+	   department:id="86"
+	   region:id="Poitou-Charentes" />	
+    <g
+       id="Charente"
+	   department:id="16"
+	   region:id="Poitou-Charentes" />		   
+    <g
+       id="Deux-Sèvres"
+	   department:id="79"
+	   region:id="Poitou-Charentes" />
+    <g
+       id="Charente-Maritime"
+	   department:id="17"
+	   region:id="Poitou-Charentes" />	 	     
+    <g
+       region:name="Poitou-Charentes" />	   
+</g>	   
+<g id="Bretagne" department:list="22,56,29,35">	   
+    <g
+	   id="department22"	
+       department:name="Côtes-d'Armor"
+	   region:id="Bretagne" />
+    <g
+	   id="department56"	
+       department:name="Morbihan"
+	   region:id="Bretagne" />	   
+    <g
+	   id="department29"	
+       department:name="Finistère"
+	   region:id="Bretagne" />	
+    <g
+	   id="department35"	
+       department:name="Ille-et-Vilaine"
+	   region:id="Bretagne" />	   
+    <g
+       id="Côtes-d'Armor"
+	   department:id="22"
+	   region:id="Bretagne" />
+    <g
+       id="Morbihan"
+	   department:id="56"
+	   region:id="Bretagne" />	   
+    <g
+       id="Finistère"
+	   department:id="29"
+	   region:id="Bretagne" />	
+    <g
+       id="Ille-et-Vilaine"
+	   department:id="35"
+	   region:id="Bretagne" />	
+    <g
+       region:name="Bretagne" />	   
+</g>
+	   
+<g id="Pays de la Loire" department:list="44,49,72,53,85">	   
+    <g
+       id="department44"
+       department:name="Loire-Atlantique"
+	   region:id="Pays de la Loire" />	
+    <g
+       id="department49"
+       department:name="Maine-et-Loire"
+	   region:id="Pays de la Loire" />
+    <g
+       id="department72"
+       department:name="Sarthe"
+	   region:id="Pays de la Loire" />
+    <g
+       id="department53"
+       department:name="Mayenne"
+	   region:id="Pays de la Loire" />
+    <g
+       id="department85"
+       department:name="Vendée"
+	   region:id="Pays de la Loire" />	
+    <g
+       id="Loire-Atlantique"
+	   department:id="44"
+	   region:id="Pays de la Loire" />	
+    <g
+       id="Maine-et-Loire"
+	   department:id="49"
+	   region:id="Pays de la Loire" />
+    <g
+       id="Sarthe"
+	   department:id="72"
+	   region:id="Pays de la Loire" />
+    <g
+       id="Mayenne"
+	   department:id="53"
+	   region:id="Pays de la Loire" />
+    <g
+       id="Vendée"
+	   department:id="85"
+	   region:id="Pays de la Loire" />		   
+    <g
+       region:name="Pays de la Loire" />
+</g>	   	   
+	   
+<g id="Basse-Normandie" department:list="14,61,50">	   
+    <g
+       id="department14"
+       department:name="Calvados"
+	   region:id="Basse-Normandie" />
+    <g
+       id="department61"
+       department:name="Orne"
+	   region:id="Basse-Normandie" />
+    <g
+       id="department50"
+       department:name="Manche"
+	   region:id="Basse-Normandie" />
+    <g
+       id="Calvados"
+	   department:id="14"
+	   region:id="Basse-Normandie" />
+    <g
+       id="Orne"
+	   department:id="61"
+	   region:id="Basse-Normandie" />
+    <g
+       id="Manche"
+	   department:id="50"
+	   region:id="Basse-Normandie" />			   	   
+    <g
+       region:name="Basse-Normandie" />	   
+</g>
+
+<g id="Haute-Normandie" department:list="76,27">
+    <g
+       id="department76"
+       department:name="Seine-Maritime"
+	   region:id="Haute-Normandie" />
+    <g
+       id="department27"
+       department:name="Eure"
+	   region:id="Haute-Normandie" />
+    <g
+       id="Seine-Maritime"
+	   department:id="76"
+	   region:id="Haute-Normandie" />
+    <g
+       id="Eure"
+	   department:id="27"
+	   region:id="Haute-Normandie" />	   
+    <g
+       region:name="Haute-Normandie" />
+</g>	   	   
+	   
+<g id="Centre" department:list="28,37,45,36,41,18">	   
+    <g
+       id="department28"
+       department:name="Eure-et-Loir"
+	   region:id="Centre" />	   
+    <g
+       id="department37"
+       department:name="Indre-et-Loire"
+	   region:id="Centre" />
+    <g
+       id="department45"
+       department:name="Loiret"
+	   region:id="Centre" />
+    <g
+       id="department36"
+       department:name="Indre"
+	   region:id="Centre" />
+    <g
+       id="department41"
+       department:name="Loir-et-Cher"
+	   region:id="Centre" />
+    <g
+       id="department18"
+       department:name="Cher"
+	   region:id="Centre" />
+    <g
+       id="Eure-et-Loir"
+	   department:id="28"
+	   region:id="Centre" />	   
+    <g
+       id="Indre-et-Loire"
+	   department:id="37"
+	   region:id="Centre" />
+    <g
+       id="Loiret"
+	   department:id="45"
+	   region:id="Centre" />
+    <g
+       id="Indre"
+	   department:id="36"
+	   region:id="Centre" />
+    <g
+       id="Loir-et-Cher"
+	   department:id="41"
+	   region:id="Centre" />
+    <g
+       id="Cher"
+	   department:id="18"
+	   region:id="Centre" />	   
+    <g
+       region:name="Centre" />	
+</g>	      
+	   
+<g id="Bourgogne" department:list="89,21,58,71">	   
+    <g
+       id="department89"
+       department:name="Yonne"
+	   region:id="Bourgogne" />	   
+    <g
+       id="department21"
+       department:name="Côte-d'Or"
+	   region:id="Bourgogne" />
+    <g
+       id="department58"
+       department:name="Nièvre"
+	   region:id="Bourgogne" />
+    <g
+       id="department71"
+       department:name="Saône-et-Loire"
+	   region:id="Bourgogne" />
+    <g
+       id="Yonne"
+	   department:id="89"
+	   region:id="Bourgogne" />	   
+    <g
+       id="Côte-d'Or"
+	   department:id="21"
+	   region:id="Bourgogne" />
+    <g
+       id="Nièvre"
+	   department:id="58"
+	   region:id="Bourgogne" />
+    <g
+       id="Saône-et-Loire"
+	   department:id="71"
+	   region:id="Bourgogne" />	   
+    <g
+       region:name="Bourgogne" />
+</g>
+
+<g id="Nord-Pas-de-Calais" department:list="59,62">
+    <g
+       id="department59"
+       department:name="Nord-Pas-de-Calais"
+	   region:id="Nord-Pas-de-Calais" />
+    <g
+       id="department62"
+       department:name="Pas-de-Calais"
+	   region:id="Nord-Pas-de-Calais" />
+    <g
+       id="Nord-Pas-de-Calais"
+	   department:id="59"
+	   region:id="Nord-Pas-de-Calais" />
+    <g
+       id="Pas-de-Calais"
+	   department:id="62"
+	   region:id="Nord-Pas-de-Calais" />		   	   
+    <g
+       region:name="Nord-Pas-de-Calais" />	   
+</g>	   
+	   
+<g id="Picardie" department:list="60,02,80">	   
+    <g
+       id="department60"
+       department:name="Oise"
+	   region:id="Picardie" />	   
+    <g
+       id="department02"
+       department:name="Aisne"
+	   region:id="Picardie" />
+    <g
+       id="department80"
+       department:name="Somme"
+	   region:id="Picardie" />
+    <g
+       id="Oise"
+	   department:id="60"
+	   region:id="Picardie" />	   
+    <g
+       id="Aisne"
+	   department:id="02"
+	   region:id="Picardie" />
+    <g
+       id="Somme"
+	   department:id="80"
+	   region:id="Picardie" />	   
+    <g
+       region:name="Picardie" />	
+</g>	   
+		     
+<g id="Champagne-Ardenne" department:list="51,08,10,52">	   
+    <g
+       id="department51"
+       department:name="Marne"
+	   region:id="Champagne-Ardenne" />	   
+    <g
+       id="department08"
+       department:name="Ardennes"
+	   region:id="Champagne-Ardenne" />
+    <g
+       id="department10"
+       department:name="Aube"
+	   region:id="Champagne-Ardenne" />
+    <g
+       id="department52"
+       department:name="Haute-Marne"
+	   region:id="Champagne-Ardenne" />
+    <g
+       id="Marne"
+	   department:id="51"
+	   region:id="Champagne-Ardenne" />	   
+    <g
+       id="Ardennes"
+	   department:id="08"
+	   region:id="Champagne-Ardenne" />
+    <g
+       id="Aube"
+	   department:id="10"
+	   region:id="Champagne-Ardenne" />
+    <g
+       id="Haute-Marne"
+	   department:id="52"
+	   region:id="Champagne-Ardenne" />	   
+    <g
+       region:name="Champagne-Ardenne" />	
+</g>	      
+	   	   
+<g id="Alsace" department:list="67,68">	   
+    <g
+       id="department67"
+       department:name="Bas-Rhin"
+	   region:id="Alsace" />
+    <g
+       id="department68"
+       department:name="Haut-Rhin"
+	   region:id="Alsace" />
+    <g
+       id="Bas-Rhin"
+	   department:id="67"
+	   region:id="Alsace" />
+    <g
+       id="Haut-Rhin"
+	   department:id="68"
+	   region:id="Alsace" />	   
+    <g
+       region:name="Alsace" />	   
+</g>	   
+	   
+<g id="Lorraine" department:list="55,57,88,54">	   
+    <g
+       id="department55"
+       department:name="Meuse"
+	   region:id="Lorraine" />
+    <g
+       id="department57"
+       department:name="Moselle"
+	   region:id="Lorraine" />
+    <g
+       id="department88"
+       department:name="Vosges"
+	   region:id="Lorraine" />
+    <g
+       id="department54"
+       department:name="Meurthe-et-Moselle"
+	   region:id="Lorraine" />	
+    <g
+       id="Meuse"
+	   department:id="55"
+	   region:id="Lorraine" />
+    <g
+       id="Moselle"
+	   department:id="57"
+	   region:id="Lorraine" />
+    <g
+       id="Vosges"
+	   department:id="88"
+	   region:id="Lorraine" />
+    <g
+       id="Meurthe-et-Moselle"
+	   department:id="54"
+	   region:id="Lorraine" />			     
+    <g
+       region:name="Lorraine" />	
+</g>	      
+	   
+<g id="Île-de-France" department:list="77,91,78,95,93,75,92,94">	   	   
+    <g
+       id="department77"
+       department:name="Seine-et-Marne"
+	   region:id="Île-de-France" />	   
+    <g
+       id="department91"
+       department:name="Essonne"
+	   region:id="Île-de-France" />
+    <g
+       id="department78"
+       department:name="Yvelines"
+	   region:id="Île-de-France" />
+    <g
+       id="department95"
+       department:name="Val-d'Oise"
+	   region:id="Île-de-France" />
+    <g
+       id="department93"
+       department:name="Seine-Saint-Denis"
+	   region:id="Île-de-France" />
+    <g
+       id="department75"
+       department:name="Paris"
+	   region:id="Île-de-France" />
+    <g
+       id="department92"
+       department:name="Hauts-de-Seine"
+	   region:id="Île-de-France" />
+    <g
+       id="department94"
+       department:name="Val-de-Marne"
+	   region:id="Île-de-France" />
+    <g
+       id="Seine-et-Marne"
+	   department:id="77"
+	   region:id="Île-de-France" />	   
+    <g
+       id="Essonne"
+	   department:id="91"
+	   region:id="Île-de-France" />
+    <g
+       id="Yvelines"
+	   department:id="78"
+	   region:id="Île-de-France" />
+    <g
+       id="Val-d'Oise"
+	   department:id="95"
+	   region:id="Île-de-France" />
+    <g
+       id="Seine-Saint-Denis"
+	   department:id="93"
+	   region:id="Île-de-France" />
+    <g
+       id="Paris"
+	   department:id="75"
+	   region:id="Île-de-France" />
+    <g
+       id="Hauts-de-Seine"
+	   department:id="92"
+	   region:id="Île-de-France" />
+    <g
+       id="Val-de-Marne"
+	   department:id="94"
+	   region:id="Île-de-France" />	   
+    <g
+       region:name="Île-de-France" />	   
+</g>	   
+	   
+<g id="Franche-Comté" department:list="39,70,25,90">	   
+    <g
+       id="department39"
+       department:name="Jura"
+	   region:id="Franche-Comté" />	   
+    <g
+       id="department70" 
+       department:name="Haute-Saône"
+	   region:id="Franche-Comté" />	   
+    <g
+       id="department25"
+	   department:name="Doubs"
+	   region:id="Franche-Comté" />
+    <g
+       id="department90"
+       department:name="Territoire de Belfort"
+	   region:id="Franche-Comté" />
+    <g
+       id="Jura"
+	   department:id="39"
+	   region:id="Franche-Comté" />	   
+    <g
+       id="Haute-Saône"
+	   department:id="70"
+	   region:id="Franche-Comté" />	   
+    <g
+       id="Doubs"
+	   department:id="25"
+	   region:id="Franche-Comté" />
+    <g
+       id="Territoire de Belfort"
+	   department:id="90"
+	   region:id="Franche-Comté" />	   
+    <g
+       region:name="Franche-Comté" />	   
+</g>
+	   
+</g><!-- departments -->
+
+<g filter="none">
+	<use id="department-icon" xlink:href="" x="0" y="0" />
+</g>
+    	 
+</svg>
